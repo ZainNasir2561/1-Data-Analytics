@@ -1,5 +1,8 @@
-# Worldwide Layoffs Data Cleaning Program
-Welcome to the Worldwide Layoffs Data Cleaning Program! This repository contains a MySQL-based program designed to clean and preprocess a dataset related to worldwide layoffs. The purpose of this program is to standardize, normalize, and correct data to ensure consistency and accuracy for further analysis.
+# Worldwide Layoffs Data Cleaning Project
+Welcome to the Worldwide Layoffs Data Cleaning Project! This repository contains a MySQL-based program designed to clean and preprocess a dataset related to worldwide layoffs. 
+
+The purpose of this program is to standardize, normalize, and correct data to ensure consistency and accuracy for further analysis.
+
 
 Features
 Data Cleaning: Remove duplicates, handle missing values, and correct formatting issues.
